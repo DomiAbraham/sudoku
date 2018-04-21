@@ -1,0 +1,51 @@
+# Personal Configuration
+.vs/*
+Pro_Sudoku/.vs/*
+Pro_Sudoku/Debug/*
+Pro_Sudoku/Release/*
+Pro_Sudoku/x64/*
+Pro_Sudoku/TestResults/*
+Pro_Sudoku/Pro_Sudoku/Debug/*
+Pro_Sudoku/Pro_Sudoku/Release/*
+Pro_Sudoku/Pro_Sudoku/x64/*
+Pro_Sudoku/UnitTest1/x64/*
+Pro_Sudoku/UnitTest1/Debug/*
+*.suo
+*.db
+*.psess
+*.vspx
+*.txt
+!BIN/sudoku.exe
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
